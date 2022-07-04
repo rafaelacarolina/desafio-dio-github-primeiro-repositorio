@@ -1,0 +1,12 @@
+Pensamento computacional definição: expressão de soluções em passos computacionais ou algoritmos
+que podem ser implantados no computador. 
+
+Os quatros pilares = decomposição (dividir em subproblemas) ; reconhecimento de pradões (similaridades/diferenças entre os problemas) ; abstração (mundo concreto -> mundo das ideias) ; design
+de algoritmo ( definir passo a passo a resolução do problema).
+
+Input -> operator -> output
+
+Pensamento sintético (indução e dedução) x Pensamento analítico (abdução)
+
+Algoritmo (descreve o problema) = instruções 'step by step'; análise (dados de saída e entrada) ; codificação.
+Construção: narrativa x fluxograma
